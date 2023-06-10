@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RQL.NET
+namespace RQL.NET.CORE
 {
     /// <summary>
     /// This is validates that the json type is compatible and convertable to the corresponding c# type.

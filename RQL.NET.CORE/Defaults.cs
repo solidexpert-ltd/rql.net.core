@@ -1,7 +1,6 @@
 using System;
-using System.Collections.Generic;
 
-namespace RQL.NET
+namespace RQL.NET.CORE
 {
 
 

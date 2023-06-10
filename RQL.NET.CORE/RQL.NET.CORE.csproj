@@ -8,19 +8,19 @@
   </PropertyGroup>
   <PropertyGroup>
     <PackageId>RQL.NET.CORE</PackageId>
-    <authors>Ashton Kinslow</authors>
+    <authors></authors>
     <owners>ashtonian</owners>
     <Description>RQL.NET is a resource query language for .NET intended for use with REST apps. It provides a simple, hackable api for creating dynamic sql queries from user submitted JSON.</Description>
-    <PackageVersion>0.0.12-beta</PackageVersion>
+    <PackageVersion>1.0.0</PackageVersion>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>web utility json url rql sql query dynamic builder data-access parser </PackageTags>
     <!-- <PackageLicenseUrl>https://github.com/Ashtonian/RQL.NET</PackageLicenseUrl> -->
-    <PackageProjectUrl>https://github.com/Ashtonian/RQL.NET</PackageProjectUrl>
+    <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl></RepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 </Project>

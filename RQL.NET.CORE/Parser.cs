@@ -5,7 +5,7 @@ using System.Text;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace RQL.NET
+namespace RQL.NET.CORE
 {
     public class DbExpression
     {
