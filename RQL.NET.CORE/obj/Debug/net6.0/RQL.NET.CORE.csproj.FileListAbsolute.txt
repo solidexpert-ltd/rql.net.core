@@ -1,0 +1,12 @@
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/bin/Debug/net6.0/RQL.NET.CORE.deps.json
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/bin/Debug/net6.0/RQL.NET.CORE.dll
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/bin/Debug/net6.0/RQL.NET.CORE.pdb
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.csproj.AssemblyReference.cache
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.AssemblyInfoInputs.cache
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.AssemblyInfo.cs
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.dll
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/refint/RQL.NET.CORE.dll
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/RQL.NET.CORE.pdb
+/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/obj/Debug/net6.0/ref/RQL.NET.CORE.dll

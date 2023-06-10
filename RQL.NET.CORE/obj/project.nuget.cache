@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReFKQQjGqPjBalWKqOQmYyAB4DaoBZ4IXEE0bgsdYkUvNP7nDgr5SSGZ1ub7N49e/tdb6EjBTzgelsVlUWqsng==",
+  "success": true,
+  "projectFilePath": "/Users/admin/Downloads/RQL.NET-master/RQL.NET.CORE/RQL.NET.CORE.csproj",
+  "expectedPackageFiles": [
+    "/Users/admin/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
