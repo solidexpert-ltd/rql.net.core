@@ -10,7 +10,7 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Ashton Kinslow")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RQL.NET.CORE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("RQL.NET is a resource query language for .NET intended for use with REST apps. It" +
     " provides a simple, hackable api for creating dynamic sql queries from user subm" +

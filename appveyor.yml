@@ -5,7 +5,7 @@
 # set clone depth
 clone_depth: 1 # clone entire repository history if not defined
 image:
-  - Visual Studio 2019
+  - Visual Studio 2022
 # build cache to preserve files/folders between builds
 # cache:
 #   - packages -> **\packages.config # preserve "packages" directory in the root of build folder but will reset it if packages.config is modified
@@ -32,7 +32,7 @@ configuration: Release
 # "project" is relative to the original build directory and not influenced by directory changes in "before_build".
 build:
   parallel: true # enable MSBuild parallel builds
-  project: RQL.NET/RQL.NET.csproj # path to Visual Studio solution or project
+  project: RQL.NET.CORE/RQL.NET.CORE.csproj # path to Visual Studio solution or project
   publish_aspnet_core: true # Package ASP.NET Core projects
   publish_nuget: true # package projects with .nuspec files and push to artifacts
   publish_nuget_symbols: true # generate and publish NuGet symbol packages
@@ -43,7 +43,7 @@ build:
 
 before_build:
   - cmd: >-
-      dotnet restore RQL.NET/RQL.NET.csproj
+      dotnet restore RQL.NET.CORE/RQL.NET.CORE.csproj
 
 # scripts to run after build (working directory and environment changes are persisted from the previous steps)
 after_build:
@@ -58,12 +58,7 @@ before_package:
 # to disable automatic builds
 #build: off
 
-deploy:
-  provider: NuGet
-  api_key:
-    secure: ZzvMO1Si59F7ksHKjJuEO+rbkKTF3BPWnhfvLW13NRxC6Rvx+FLwODSG9xSSc5UY
-  on:
-    APPVEYOR_REPO_TAG: true
+
 
 #---------------------------------#
 #       tests configuration       #
